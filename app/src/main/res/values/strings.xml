@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unit Converter App</string>
+    <string name="convert_button">Convert</string>
+    <string name="input_hint">Enter value</string>
+    <string name="result_hint">Result will appear here</string>
+
+    <!-- Category choices -->
+    <string-array name="category_array">
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Temperature</item>
+    </string-array>
+
+    <!-- Length Units -->
+    <string-array name="length_units">
+        <item>inch</item>
+        <item>foot</item>
+        <item>yard</item>
+        <item>cm</item>
+        <item>km</item>
+        <item>mile</item>
+    </string-array>
+
+    <!-- Weight Units -->
+    <string-array name="weight_units">
+        <item>pound</item>
+        <item>kg</item>
+        <item>ounce</item>
+        <item>g</item>
+        <item>ton</item>
+    </string-array>
+
+    <!-- Temperature Units -->
+    <string-array name="temperature_units">
+        <item>°C</item>
+        <item>°F</item>
+        <item>K</item>
+    </string-array>
+</resources>

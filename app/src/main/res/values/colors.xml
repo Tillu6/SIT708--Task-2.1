@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_bg">#121212</color>
+    <color name="white_text">#FFFFFF</color>
+    <color name="outline">#FFFFFF</color>
+</resources>

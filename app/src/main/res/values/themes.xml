@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Example minimal AppCompat/Material theme -->
+    <style name="Theme.UnitConverterApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- You can customize colors, window background, etc. -->
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:colorPrimary">@android:color/holo_blue_dark</item>
+        <item name="android:colorAccent">@android:color/holo_blue_light</item>
+    </style>
+
+</resources>
